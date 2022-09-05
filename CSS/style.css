@@ -91,14 +91,20 @@ img{
 .pictures{
     display: flex;
     justify-content: center;
+    align-items: center;
+    gap: 25px;
+    
 }
 
 .text{
     text-align: center;
     width: 170px;
+    font-size: 18px;
+    color: #1F2937;
 }
 
-.cat, .painting, .wedding, .bear,{
-    pa
-}
 
+.imagesectiontwo{
+    border-radius: 20px;
+    border: #3882F6 solid 2px;
+}
