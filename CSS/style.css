@@ -88,3 +88,13 @@ img{
     margin: 50px 50px;
 }
 
+.pictures{
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+    text-align: center;
+    width: 100px;
+}
+
