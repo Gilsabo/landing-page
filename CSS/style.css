@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    
 }
 
 .firstsection{
@@ -65,8 +66,10 @@ button{
 img{
 
     object-fit: cover;
-
-  
     
+}
+
+.heromain, .herotext, .button{
+    padding-bottom: 10px;
 }
 
