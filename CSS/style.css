@@ -5,6 +5,7 @@ body{
 
 .firstsection{
     background-color: rgb(31, 41, 55); 
+    
 
 }
 
@@ -14,6 +15,8 @@ body{
     color: #F9FAF8;
     justify-content: space-around;
     align-items: center;
+    margin-left: -50px;
+    margin-right: -50px;
 
 }
 ul{
@@ -55,12 +58,15 @@ button{
     align-items: center;
     margin-top: 50px;
     padding-bottom: 50px;
+    margin-left: 100px;
+    margin-right:100px;
 
 }
 
 .leftside{
     display: flex;
     flex-direction: column;
+    
 }
 
 img{
