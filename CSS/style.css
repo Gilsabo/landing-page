@@ -1,11 +1,13 @@
 body{
 margin:0px;
+
     
     
 }
 
 .firstsection{
     background-color: rgb(31, 41, 55); 
+    width:100%;
     
     
 
@@ -18,7 +20,7 @@ margin:0px;
     justify-content: space-around;
     align-items: center;
     margin-left: -50px;
-    margin-right: -50px;
+    
 
 }
 ul{
