@@ -171,5 +171,14 @@ img{
 .buttontwo{
     border: #F9FAF8 2px solid;
     border-radius: 15px ;
+}
 
+.footer{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    height: 100px;
+    color: #E5E7EB;
+    
 }
