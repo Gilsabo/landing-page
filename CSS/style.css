@@ -1,10 +1,12 @@
 body{
-    margin: 0px;
+margin:0px;
+    
     
 }
 
 .firstsection{
     background-color: rgb(31, 41, 55); 
+    
     
 
 }
@@ -48,7 +50,7 @@ button{
     background-color: #3882F6;
     border: none;
     color:#F9FAF8;
-    border-radius: 16%;
+    border-radius: 15px;
     padding: 10px 30px;
 }
 
@@ -133,4 +135,41 @@ img{
     color: #1F2937;
     font-style: italic;
     font-size: 36px;
+}
+
+
+.fourthsection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bluemodal{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3b82f6;  
+    height: 120px; 
+    width: 1000px;
+    border-radius: 10px;
+    color: #F9FAF8 ;
+    gap: 20px;
+    margin: 160px 160px;
+
+    
+}
+
+.headercall{
+    font-size: 24px;
+
+}
+
+.signuptext{
+    font-size: 18px;
+
+}
+
+.buttontwo{
+    border: #F9FAF8 2px solid;
+    border-radius: 15px ;
+
 }
